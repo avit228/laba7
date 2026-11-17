@@ -1,0 +1,4 @@
+TV;Japan;Sony;10;500
+Laptop;China;Lenovo;5;300
+TV;Korea;Samsung;7;600
+TV;China;Xiaomi;12;450
